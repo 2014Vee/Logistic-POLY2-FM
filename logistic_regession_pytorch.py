@@ -1,5 +1,6 @@
 # 参考：https://blog.csdn.net/out_of_memory_error/article/details/81275651
 # https://github.com/rexrex9/FM_recommendation/blob/main/logistic_regression_recommendation.py
+# 2014Vee
 import torch
 from torch.autograd import Variable
 import readData
