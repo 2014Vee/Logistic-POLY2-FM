@@ -44,7 +44,7 @@ class FM(nn.Module):
                     s = torch.tensor([s])
                     # print("s:", s.size())
             if batch == 0:
-                t = s
+                t = sster
             else:
                 # print(t.size())
                 # print(s.size())
